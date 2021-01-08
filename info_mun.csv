@@ -1,4 +1,4 @@
-id_Mun,id_Prov_Mun,Municipio_PBA,Región,AMBA,Apertura_PBA_UNGS,Apertura_PBA_UNDAV,"lat,long",pob_2015,pob_2016,pob_2017,pob_2018,pob_2019,pob_2020,pob_2021,pob_2022,pob_2023,pob_2024,pob_2025
+id_Mun,id_Prov_Mun,Municipio_PBA,Región,AMBA,Apertura_PBA_UNGS,Apertura_PBA_UNDAV,"lat,long",pob_mun_2015,pob_mun_2016,pob_mun_2017,pob_mun_2018,pob_mun_2019,pob_mun_2020,pob_mun_2021,pob_mun_2022,pob_mun_2023,pob_mun_2024,pob_mun_2025
 7,6-7,Adolfo Alsina,Región I,Interior PBA,Interior PBA,Interior PBA,"-37.179483264541,-62.7599903900444",17356,17382,17407,17433,17458,17483,17507,17532,17556,17580,17603
 14,6-14,Adolfo Gonzáles Chaves,Región I,Interior PBA,Interior PBA,Interior PBA,"-38.0323707296254,-60.0993919272956",12040,12016,11992,11968,11944,11922,11899,11877,11855,11832,11811
 56,6-56,Bahía Blanca,Región I,Interior PBA,Interior PBA,Interior PBA,"-38.7227702774263,-62.2727419997435",307250,307836,308413,308982,309544,310095,310639,311175,311704,312224,312738
