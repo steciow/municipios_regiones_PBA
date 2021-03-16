@@ -44,11 +44,9 @@ General Alvarado,General Alvarado,Región VIII,Interior PBA,-38.2670059243839,-5
 General Alvear,General Alvear,Región IX,Interior PBA,-36.0217418765863,-60.014505384316
 General Arenales,General Arenales,Región III,Interior PBA,-34.3033240028004,-61.3070338888029
 General Belgrano,General Belgrano,Región XI,Interior PBA,-35.7656761989974,-58.4971632728667
-,General Guido,Región VIII,Interior PBA,-36.6431665881674,-57.79050239427
 General Juan Madariaga,General Juan Madariaga,Región VIII,Interior PBA,-37.0019581916172,-57.1358377703967
 General La Madrid,General La Madrid,Región IX,Interior PBA,-37.2496672842178,-61.2621992089263
 General las Heras,General Las Heras,Región VII,AMBA,-34.9269092951278,-58.9467069523639
-,General Lavalle,Región VIII,Interior PBA,-36.4080860931986,-56.9433578441891
 General Paz,General Paz,Región XI,Interior PBA,-35.5164055811526,-58.3188155127257
 General Pinto,General Pinto,Región III,Interior PBA,-34.76433157784,-61.8916280746759
 General Pueyrredón,General Pueyrredón,Región VIII,Interior PBA,-38.0064494389904,-57.5438377446162
@@ -69,7 +67,6 @@ Lanús,Lanús,Región VI,AMBA,-34.7037709461722,-58.4005603047142
 Laprida,Laprida,Región IX,Interior PBA,-37.5442260048262,-60.8010273268496
 Las Flores,Las Flores,Región IX,Interior PBA,-36.0142687585963,-59.0998639762415
 Leandro N. Alem,Leandro N. Alem,Región III,Interior PBA,-34.4979071779738,-61.5423105969564
-,Lezama,Región XI,Interior PBA,-35.8728655653935,-57.8969843395556
 Lincoln,Lincoln,Región III,Interior PBA,-34.8681769069387,-61.5294113015902
 Lobería,Lobería,Región VIII,Interior PBA,-38.1633849365655,-58.7818467925954
 Lobos,Lobos,Región X,Interior PBA,-35.1854255524473,-59.0978341614174
@@ -94,12 +91,10 @@ Patagones,Patagones,Región I,Interior PBA,-40.8025151530518,-62.9836021861919
 Pehuajó,Pehuajó,Región II,Interior PBA,-35.8108053330996,-61.8989682126129
 Pellegrini,Pellegrini,Región II,Interior PBA,-36.2679141878894,-63.1647218996958
 Pergamino,Pergamino,Región IV,Interior PBA,-33.89110914627,-60.5745861942974
-,Pila,Región XI,Interior PBA,-36.0041852531469,-58.1410676867243
 Pilar,Pilar,Región V,AMBA,-34.4586965254243,-58.9139679120894
 Pinamar,Pinamar,Región VIII,Interior PBA,-37.1138217780526,-56.8580775492395
 Presidente Peron,Presidente Perón,Región XI,AMBA,-34.9179865320528,-58.3821570397156
 Puan,Puán,Región I,Interior PBA,-37.5480950159722,-62.7683364682534
-,Punta Indio,Región XI,Interior PBA,-35.3874096777144,-57.338171581753
 Quilmes,Quilmes,Región VI,AMBA,-34.7200676329149,-58.2543469769314
 Ramallo,Ramallo,Región IV,Interior PBA,-33.4852021201817,-60.0044384245936
 Rauch,Rauch,Región IX,Interior PBA,-36.7744147069731,-59.0882891430295
@@ -123,7 +118,6 @@ Suipacha,Suipacha,Región X,Interior PBA,-34.7688145912203,-59.6868293550907
 Tandil,Tandil,Región VIII,Interior PBA,-37.3286954878065,-59.1368975553779
 Tapalqué,Tapalqué,Región IX,Interior PBA,-36.356235979207,-60.0251124031149
 Tigre,Tigre,Región V,AMBA,-34.4226492597555,-58.5808752886636
-,Tordillo,Región XI,Interior PBA,-36.5208605076063,-57.3249387125515
 Tornquist,Tornquist,Región I,Interior PBA,-38.1012814181029,-62.2229543261812
 Trenque Lauquen,Trenque Lauquen,Región II,Interior PBA,-35.9733358980332,-62.732745052742
 Tres Arroyos,Tres Arroyos,Región I,Interior PBA,-38.3771966980691,-60.2752150701194
